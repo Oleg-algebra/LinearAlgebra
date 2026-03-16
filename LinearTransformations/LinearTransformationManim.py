@@ -17,7 +17,7 @@ class LinearTransformation(Scene):
             y_range=[-20, 20, 1],  # Much taller than the screen
             background_line_style={
                 "stroke_color": YELLOW,
-                "stroke_width": 4,
+                "stroke_width": 6,
                 "stroke_opacity": 0.2
             }
         )
